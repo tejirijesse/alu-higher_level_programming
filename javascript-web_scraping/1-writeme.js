@@ -1,4 +1,5 @@
-/ this script writes a string to a file. not taking in file yet tho.
+#!/usr/bin/node
+// this script writes a string to a file. not taking in file yet tho.
 
 const fs = require('fs');
 const content = process.argv[3];
